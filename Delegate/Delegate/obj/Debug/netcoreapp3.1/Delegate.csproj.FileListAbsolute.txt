@@ -1,0 +1,4 @@
+G:\T02308\PROJECTS\C#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\C#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+G:\T02308\PROJECTS\C#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+G:\T02308\PROJECTS\C#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache

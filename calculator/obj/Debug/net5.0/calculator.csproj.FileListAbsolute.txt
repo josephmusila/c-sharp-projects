@@ -1,0 +1,16 @@
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.exe
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.deps.json
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.runtimeconfig.json
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.runtimeconfig.dev.json
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.dll
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\ref\calculator.dll
+G:\T02308\PROJECTS\C#\calculator\bin\Debug\net5.0\calculator.pdb
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.dll
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\ref\calculator.dll
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.pdb
+G:\T02308\PROJECTS\C#\calculator\obj\Debug\net5.0\calculator.genruntimeconfig.cache

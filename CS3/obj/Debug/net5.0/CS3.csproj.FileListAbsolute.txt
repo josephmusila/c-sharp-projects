@@ -1,0 +1,16 @@
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.exe
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.deps.json
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.runtimeconfig.json
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.runtimeconfig.dev.json
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.dll
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\ref\CS3.dll
+G:\T02308\PROJECTS\C#\CS3\bin\Debug\net5.0\CS3.pdb
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.GeneratedMSBuildEditorConfig.editorconfig
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.AssemblyInfoInputs.cache
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.AssemblyInfo.cs
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.csproj.CoreCompileInputs.cache
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.dll
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\ref\CS3.dll
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.pdb
+G:\T02308\PROJECTS\C#\CS3\obj\Debug\net5.0\CS3.genruntimeconfig.cache

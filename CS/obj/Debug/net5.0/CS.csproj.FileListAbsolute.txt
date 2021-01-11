@@ -1,0 +1,16 @@
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.exe
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.deps.json
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.runtimeconfig.json
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.runtimeconfig.dev.json
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.dll
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\ref\CS.dll
+G:\T02308\PROJECTS\CS\bin\Debug\net5.0\CS.pdb
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.AssemblyInfoInputs.cache
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.AssemblyInfo.cs
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.csproj.CoreCompileInputs.cache
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.dll
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\ref\CS.dll
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.pdb
+G:\T02308\PROJECTS\CS\obj\Debug\net5.0\CS.genruntimeconfig.cache

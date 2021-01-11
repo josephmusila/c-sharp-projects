@@ -1,0 +1,13 @@
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.exe
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.deps.json
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.runtimeconfig.json
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.runtimeconfig.dev.json
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.dll
+G:\T02308\PROJECTS\C#\objects\objects\bin\Debug\netcoreapp3.1\objects.pdb
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.AssemblyInfoInputs.cache
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.AssemblyInfo.cs
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.csproj.CoreCompileInputs.cache
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.dll
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.pdb
+G:\T02308\PROJECTS\C#\objects\objects\obj\Debug\netcoreapp3.1\objects.genruntimeconfig.cache

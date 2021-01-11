@@ -1,0 +1,10 @@
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\bin\Debug\Desk2App.exe.config
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\bin\Debug\Desk2App.exe
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\bin\Debug\Desk2App.pdb
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.csprojAssemblyReference.cache
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.Properties.Resources.resources
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.csproj.GenerateResource.cache
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.csproj.CoreCompileInputs.cache
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.exe
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.pdb
+G:\T02308\PROJECTS\C#\Desk2App\Desk2App\obj\Debug\Desk2App.Form1.resources
